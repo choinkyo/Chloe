@@ -10,7 +10,7 @@
    4. Machine Learning Algorithms
    5. Conclusion
 
-
+![image](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Correlation%20Between%20Views%2C%20Likes.png)
 
 
 ## Project 2: Facebook Ad Campaign Performance Overview
