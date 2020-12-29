@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Project 1: Trending Youtube Video
 
-You can use the [editor on GitHub](https://github.com/choinkyo/Chloe_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note that they’re not the most-viewed videos overall for the calendar year”. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The purpose of this analysis is to understand the correlation between views and likes in order to extract useful insights for content strategy.** First, I will figure out if there is a correlation between the number of views and the number of likes. Then, I will analyze what factors affect popularity of YouTube video. Finally, I will train Machine Learning algorithms using RNNs to generate automated YouTube comments generator. This project is based on the dataset that show daily record of the top trending YouTube videos.
 
-### Markdown
+This dataset was collected using the YouTube API. This includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, FR, RU, MX, KR, JP and IN regions (USA, Great Britain, Germany, Canada, and France, Russia, Mexico, South Korea, Japan and India respectively), with up to 375,942 of trending videos record. Each region’s data is in a separate file. Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/choinkyo/Chloe_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
