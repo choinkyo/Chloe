@@ -6,7 +6,6 @@
   - Finally, I will train Machine Learning algorithms using RNNs to generate automated YouTube comments generator. 
 * DATASET: This dataset was collected using the YouTube API. This includes several months (and counting) of data on daily trending YouTube videos with up to 375,942 of trending videos record worldwide. 
 
-![image](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Correlation%20Between%20Views%2C%20Likes.png)
 
 
 
