@@ -1,4 +1,4 @@
-## [Project 1] Exploratory Data Analytics (EDA) - Trending Youtube Video Overview
+## [Project 1] Exploratory Data Analysis (EDA) - Trending Youtube Video Overview
 
 * PURPOSE: The purpose of this analysis is to understand the correlation between views and likes in order to extract useful insights for content strategy, and analyze KPI affecting the popularity of YouTube video. Finally, train Machine Learning algorithms using RNNs to generate automated YouTube comments generator. 
 * DATASET: This dataset was collected using the YouTube API. This includes several months (and counting) of data on daily trending YouTube videos with up to 375,942 of trending videos record worldwide. 
@@ -8,7 +8,7 @@
    2. Exploratory Data Analysis (EDA) 
    3. Clustering
 
-![Alt Text](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Youtube%20image.pdf)
+![Alt Text] (https://github.com/choinkyo/Chloe_Portfolio/blob/main/Youtube%20image.pdf)
 
 ## Project 2: Facebook Ad Campaign Performance Overview
 
