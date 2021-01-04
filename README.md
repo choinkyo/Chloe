@@ -6,19 +6,19 @@
 
 * TABLE OF CONTENT:
 
-   1. Exploratory Data Analysis (EDA):
+1. Exploratory Data Analysis (EDA):
 
-      - US Dataset 
-      - World Dataset
-      - Correlation between Views and Likes
-      - Trending Channel
-      - Tredning Topics
+   - US Dataset 
+   - World Dataset
+   - Correlation between Views and Likes
+   - Trending Channel
+   - Tredning Topics
 
 
-   2. Clustering:
+2. Clustering:
 
-       - DBSCAN 
-       - KMeans
+    - DBSCAN 
+    - KMeans
 
 ![Youtube Visualization](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Youtube%20Visualization.jpg)
 
