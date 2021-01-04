@@ -8,7 +8,7 @@
    2. Exploratory Data Analysis (EDA) 
    3. Clustering
 
-![image]()
+![Alt Text](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Youtube%20image.pdf)
 
 ## Project 2: Facebook Ad Campaign Performance Overview
 
