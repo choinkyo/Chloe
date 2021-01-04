@@ -1,4 +1,4 @@
-## [Project 1: Trending Youtube Video - Exploratory Data Ananlysis (EDA)](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(3).ipynb)
+## [Project 1: Trending Youtube Video - Exploratory Data Ananlysis (EDA)](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)
 
 * PURPOSE: The purpose of this analysis is to understand the correlation between views and likes in order to extract useful insights for content strategy, and analyze KPI affecting the popularity of YouTube video. Finally, train Machine Learning algorithms using RNNs to generate automated YouTube comments generator. 
 
