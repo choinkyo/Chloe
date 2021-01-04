@@ -20,7 +20,9 @@
     - DBSCAN 
     - KMeans
 
-![image] ()
+![World Data]() ![Correlation Between Views and Likes](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Heatmap.png) ![Clustering](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Clustering.png)
+
+
 
 ## Project 2: Facebook Ad Campaign Performance Overview
 
