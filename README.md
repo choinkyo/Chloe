@@ -20,7 +20,7 @@
     - DBSCAN 
     - KMeans
 
-![Correlation Between Views and Likes](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Heatmap.png) ![World Data](https://github.com/choinkyo/Chloe_Portfolio/blob/main/World.png) ![Category](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Trending%20Category.png) ![Channel](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Trending%20Chennel.png) ![Clustering](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Clustering.png)
+![World Data](https://github.com/choinkyo/Chloe_Portfolio/blob/main/World.png) ![Channel](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Trending%20Chennel.png) 
 
 
 
