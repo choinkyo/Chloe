@@ -8,8 +8,6 @@
    2. Exploratory Data Analysis (EDA) 
    3. Clustering
 
-![image](
-)
 
 
 ## Project 2: Facebook Ad Campaign Performance Overview
