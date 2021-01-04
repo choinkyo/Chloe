@@ -20,8 +20,7 @@
     - DBSCAN 
     - KMeans
 
-![World Data](https://github.com/choinkyo/Chloe_Portfolio/blob/main/World.png) ![Channel](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Trending%20Chennel.png) 
-
+![Youtube Visualization](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Youtube%20Visualization.jpg)
 
 
 ## Project 2: Facebook Ad Campaign Performance Overview
