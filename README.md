@@ -19,6 +19,6 @@
 
 * DATASET: This dataset was collected using the YouTube API. This includes several months (and counting) of data on daily trending YouTube videos with up to 375,942 of trending videos record worldwide. 
 
-![Youtube Image](https://github.com/choinkyo/Chloe_DataScience_Portfolio/blob/main/Youtube_image.png)
+![Youtube Image](https://github.com/choinkyo/Chloe/blob/main/Youtube_image.png)
 
 
