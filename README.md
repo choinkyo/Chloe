@@ -11,7 +11,7 @@
 
 
 
-## Topic-bsed Data Analytics & Machine Learning Projects:
+## Topic-bsed Data Science Projects:
 ## [Project 1: Trending Youtube Video](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)   
 ### - Exploratory Data Ananlysis (EDA) and Clustering
 
