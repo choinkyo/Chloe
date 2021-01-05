@@ -12,7 +12,7 @@
 
 
 ## Topic-bsed Data Analytics & Machine Learning Projects:
-## [Trending Youtube Video](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)   
+## [Project 1: Trending Youtube Video](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)   
 ### - Exploratory Data Ananlysis (EDA) and Clustering
 
 * Purpose: The purpose of this analysis is to understand the correlation between views and likes in order to extract useful insights for content strategy, and analyze KPI affecting the popularity of YouTube video. Finally, train Machine Learning algorithms using RNNs to generate automated YouTube comments generator. 
@@ -22,7 +22,9 @@
 ![Youtube Image](https://github.com/choinkyo/Chloe/blob/main/image1.png)
 
 
-## [California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting).ipynb)
+## [Project 2: California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting).ipynb)
+### - Classification & Regression (Logistic Regression & Decision Tree)
+
 * Dataset: The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self explanitor.
 
 ![California Housing Image](https://github.com/choinkyo/Chloe/blob/main/California.png)
