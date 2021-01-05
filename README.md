@@ -6,7 +6,7 @@
 ### [Predictive Machine Learnding (ML)](https://github.com/choinkyo/Data-Mining-Machine-Learning-Projects/blob/master/Titanic_Machine_Learning_from_Disaster.ipynb)
 ### [Neural Network (NN)](https://github.com/choinkyo/Deep-Learning-and-Neural-Network/blob/master/Neural_Network_and_Deep_Learning_.ipynb)
 ### [Deep Learning (RNN)](https://github.com/choinkyo/Deep-Learning-and-Neural-Network/blob/master/Recurrent_Neural_Network(RNN)_for_Newswires.ipynb)
-### [Computer Vision(CNN)](https://github.com/choinkyo/Image-Representation/blob/master/Convolution_Neural_Network_to_recognize_Rock_Paper_Scissors.ipynb)
+### [Image Recognition (CNN)](https://github.com/choinkyo/Image-Representation/blob/master/Convolution_Neural_Network_to_recognize_Rock_Paper_Scissors.ipynb)
 
 
 
