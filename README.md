@@ -7,5 +7,4 @@
 
 ![Youtube Image](https://github.com/choinkyo/Chloe_DataScience_Portfolio/blob/main/Youtube_image.png)
 
-## Project 2: Facebook Ad Campaign Performance Overview
 
