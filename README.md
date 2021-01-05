@@ -12,7 +12,7 @@
 
 
 ## Topic-bsed Data Analytics & Machine Learning Projects:
-## [Project 1: Trending Youtube Video](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)   
+## [Trending Youtube Video](https://github.com/choinkyo/Chloe_Portfolio/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)   
 ### - Exploratory Data Ananlysis (EDA) and Clustering
 
 * Purpose: The purpose of this analysis is to understand the correlation between views and likes in order to extract useful insights for content strategy, and analyze KPI affecting the popularity of YouTube video. Finally, train Machine Learning algorithms using RNNs to generate automated YouTube comments generator. 
@@ -20,6 +20,11 @@
 * Dataset: This dataset was collected using the YouTube API. This includes several months (and counting) of data on daily trending YouTube videos with up to 375,942 of trending videos record worldwide. 
 
 ![Youtube Image](https://github.com/choinkyo/Chloe/blob/main/image1.png)
+
+
+## [California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting)%20(1).ipynb)
+
+![California Housing Image](https://github.com/choinkyo/Chloe/blob/main/California.png)
 
 
 
