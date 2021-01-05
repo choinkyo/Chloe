@@ -22,7 +22,8 @@
 ![Youtube Image](https://github.com/choinkyo/Chloe/blob/main/image1.png)
 
 
-## [California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting)%20(1).ipynb)
+## [California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting).ipynb)
+* Dataset: The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self explanitor.
 
 ![California Housing Image](https://github.com/choinkyo/Chloe/blob/main/California.png)
 
