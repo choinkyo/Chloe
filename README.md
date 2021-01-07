@@ -1,6 +1,3 @@
-
-![image](https://github.com/choinkyo/Chloe/blob/main/image2.jpeg)
-
 ## Sample Data Science & Machine Learning Modeling:
 
 ### [Exploratory Data Analysis(EDA)](https://github.com/choinkyo/Chloe/blob/main/Project%201_Trending%20Youtube%20Video%20(5).ipynb)
