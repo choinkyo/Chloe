@@ -21,13 +21,13 @@
 
 ![Youtube Image](https://github.com/choinkyo/Chloe/blob/main/image1.png)
 
-## [Project 2: HR Analytics - Data Scientist]   
-### - Data Visualization and Classification
-
-## [Project 3: Pfizer Vaccine Tweets]   
+## [Project 2: Pfizer Vaccine Tweets]   
 ### - Natural Language Processing(NLP) 
 
-## [Project 5: California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting).ipynb)
+## [Project 3: HR Analytics - Data Scientist]   
+### - Data Visualization and Classification
+
+## [Project 4: California Housing Data Analytics](https://github.com/choinkyo/Chloe/blob/main/California%20Housing%20with%20ML%20model_Ensemble%20Learning%20(Adaboost%2C%20Random%20Forest%2C%20Gradient%20Boosting).ipynb)
 ### - Classification & Regression (Logistic Regression & Decision Tree)
 
 * Dataset: The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self explanitor.
